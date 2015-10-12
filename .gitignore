@@ -1,0 +1,7 @@
+.build
+jenkins_exporter
+*.tar.gz
+*.test
+*-stamp
+.idea
+*.iml
